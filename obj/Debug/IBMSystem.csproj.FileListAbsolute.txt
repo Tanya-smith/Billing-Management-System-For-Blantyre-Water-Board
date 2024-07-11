@@ -1,0 +1,97 @@
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\bin\Debug\IBMSystem.exe.config
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\bin\Debug\IBMSystem.exe
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\bin\Debug\IBMSystem.pdb
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\obj\Debug\IBMSystem.MainFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\obj\Debug\IBMSystem.Properties.Resources.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\obj\Debug\IBMSystem.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\obj\Debug\IBMSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\obj\Debug\IBMSystem.exe
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\obj\Debug\IBMSystem.pdb
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\obj\Debug\IBMSystem.csproj.CopyComplete
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\obj\Debug\IBMSystem.Controls.DashboardUC.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\obj\Debug\IBMSystem.Controls.DashUC2.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\Computer Project\System\IBMSystem\obj\Debug\IBMSystem.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\IBMSystem.exe.config
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\IBMSystem.exe
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\IBMSystem.pdb
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.CustomerUC.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.AccountFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.MainFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.Properties.Resources.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.csproj.CopyComplete
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.exe
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.pdb
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.ReportsFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Bunifu_UI_v1.5.4.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.exe.licenses
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.EmployeesFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.EmpUC.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.HomeFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\DGV Printer.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.LoginFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.CustomMB_Frm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.UserFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.UserUC.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.SettingsFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.JobsFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Twilio.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Twilio.xml
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.PaymentUC.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.ViewImageFrm.resources
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\IronOcr.dll
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\IronOcr.xml
+C:\Users\DELL\Desktop\NACIT XOOL STAFF\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.csproj.AssemblyReference.cache
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\IBMSystem.exe.config
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\IBMSystem.exe
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\IBMSystem.pdb
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Bunifu_UI_v1.5.4.dll
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\DGV Printer.dll
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\IronOcr.dll
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Newtonsoft.Json.dll
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Twilio.dll
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\IronOcr.xml
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Newtonsoft.Json.xml
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Twilio.xml
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.csproj.AssemblyReference.cache
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.csproj.SuggestedBindingRedirects.cache
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.CustomerUC.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.UserUC.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.PaymentUC.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.ViewImageFrm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.JobsFrm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.SettingsFrm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.CustomMB_Frm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.HomeFrm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.EmployeesFrm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.EmpUC.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.LoginFrm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.ReportsFrm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.AccountFrm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.MainFrm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.Properties.Resources.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.UserFrm.resources
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.csproj.GenerateResource.cache
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.exe.licenses
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.csproj.CoreCompileInputs.cache
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.csproj.CopyComplete
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.exe
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\obj\Debug\IBMSystem.pdb
+D:\SCHOOL\L6DC_STUDENT\CP\System\IBMSystem\bin\Debug\Siticone.Desktop.UI.dll
