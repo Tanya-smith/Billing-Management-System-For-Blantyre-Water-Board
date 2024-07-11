@@ -1,0 +1,20 @@
+This program uses Mysql Database to run.
+
+Follow the instructions below to create a local database.
+
+1.Create a database on Xampp or Wamp named ibms_database
+2.Import a database file in a database forder in phpmyadmin
+
+To create online database that links with mobile app
+follow the instructions below.
+
+1.open a folder named classes
+2.select DAL.cs file
+3.open DAL.cs file with notepad++
+4.Uncomment lines of code that are in comments
+5.Comments lines of code specified as Local connection database
+
+Default password for the system
+   Username = Elvis
+   Password= 1234
+
